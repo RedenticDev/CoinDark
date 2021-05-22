@@ -1,0 +1,12 @@
+Package: com.redenticdev.coindark
+Name: CoinDark
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enable dark mode on Coinbase app
+        Icon: https://redentic.dev/depictions/com.redenticdev.coindark/icon.png
+        Depiction: https://redentic.dev/depictions/?p=com.redenticdev.coindark
+        SileoDepiction: https://redentic.dev/depictions/com.redenticdev.coindark/sileo.json
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Author: RedenticDev <redenticdev@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
